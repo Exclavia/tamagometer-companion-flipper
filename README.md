@@ -1,5 +1,10 @@
 # Tamagometer Companion Flipper App
-The web app it's a companion for: https://zacharesmer.github.io/tamagometer/
+
+Forked for personal/archiving purposes.
+
+Original Webapp URL: https://zacharesmer.github.io/tamagometer/
+
+Backup Webapp URL: https://exclavia.github.io/tamagometer/
 
 Main tamagometer repo: https://github.com/zacharesmer/tamagometer
 
